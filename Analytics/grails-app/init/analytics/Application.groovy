@@ -1,4 +1,4 @@
-package grails3.angularjsnew
+package analytics
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration

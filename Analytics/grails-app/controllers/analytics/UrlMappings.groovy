@@ -1,4 +1,4 @@
-package grails3.angularjsnew
+package analytics
 
 class UrlMappings {
 
