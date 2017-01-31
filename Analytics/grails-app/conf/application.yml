@@ -13,6 +13,9 @@ dataSource:
     username: sa
     password:
 
+server:
+    contextPath: /analytics
+
 environments:
     development:
         dataSource:
