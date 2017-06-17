@@ -4,6 +4,6 @@ angular
         'ui.bootstrap',                 // Ui Bootstrap
         // 'pascalprecht.translate',       // Angular Translate
         'ngSanitize',                    // ngSanitize
-        'toastr',                 // alert popup
-        'automationfetch'
+        'toastr'/*,                 // alert popup
+        'automationfetch'*/
     ]);
