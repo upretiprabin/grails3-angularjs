@@ -60,4 +60,5 @@ _version.gsp
 **/gradle/wrapper/**
 **/gradlew
 **/gradlew.bat
-
+grails-app/assets/vendor/npm/**
+gradle/**

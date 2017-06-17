@@ -1,0 +1,9 @@
+ticketProxy:
+    backEndMAINURL : "https://makaluqc.deerwalk.com:8453/DasRouter"
+    serviceHostUrl: 'export.pa.qc.deerwalk.com'
+    serviceUrl: "https://export.pa.qc.deerwalk.com:8463/510/dwClient"
+    casURLPrefix: "https://login.qc.deerwalk.com/cas"
+    proxyReceptor: "/proxyReceptor"
+
+url:
+    backEndUrl: "http://localhost:8090/DasTest/das"
